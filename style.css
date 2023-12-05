@@ -1,0 +1,62 @@
+a{
+    text-decoration: none;
+}
+.liststyle{
+    list-style: none;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+    font-size: 17px;
+}
+
+.home{
+    color: antiquewhite;
+    background-color: aquamarine;
+   
+}
+.about{
+    color: blanchedalmond;
+    background-color: brown;
+}
+.skills{
+    color: blanchedalmond;
+    background-color: chartreuse;
+}
+.profile{
+    color: blueviolet;
+    background-color: chocolate;
+}
+.contact{
+    color: coral;
+    background-color: cornsilk;
+}
+h1{
+    color: cadetblue;
+}
+p{
+    color: crimson;
+}
+ol{
+    background-color: darkgoldenrod;
+    color: darkolivegreen
+}
+.contactlist{ 
+    background-color: darkgoldenrod;
+    color: darkolivegreen
+}
+.login{
+    background-color: darkgoldenrod;
+    color: darkolivegreen
+}
+.signup{
+    background-color: darkgoldenrod;
+    color: darkolivegreen
+}
+img{
+    width: 400px;
+    height: 200px;
+}
